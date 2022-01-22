@@ -20,7 +20,7 @@
 
 
 #list
-# num1 = 5
-# num2 = 10
+# num1 = 15
+# num2 = 50
 # list1 = [num1, num2]
 # print(list1)
